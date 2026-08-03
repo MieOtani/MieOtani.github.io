@@ -38,9 +38,12 @@ People Analytics professional specializing in HR data analysis and executive sto
 
 People Analytics consulting engagement focused on identifying leadership attrition drivers and retention opportunities within a healthcare organization.
 
-📊 **Tools**: Excel • HRIS/HRMS • Power BI • PowerPoint
+🛠️ **Tools**: Excel • HRIS/HRMS • Power BI • PowerPoint
 
 📁 **Repository**: [**Click to View**](https://github.com/MieOtani/people-analytics-leadership-attrition-analysis)
+
+📊 **Power BI Dashboard**
+()
 
 ## Gender Pay Equity Analysis
 
