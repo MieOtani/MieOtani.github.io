@@ -1,58 +1,78 @@
 # Leticia Mie Otani
 
-People Analytics professional specializing in workforce analytics, HR data, and executive storytelling.
+People Analytics professional specializing in HR data analysis and executive storytelling. I translate HRIS and workforce data into actionable business insights through data analysis, visualization, and evidence-based recommendations that support strategic People Operations decision-making.
 
-## About Me
+---
 
-I transform HR and workforce data into actionable business insights through data analysis, visualization, and stakeholder-focused recommendations.
-
-### Areas of expertise
+## Expertise
 
 - People Analytics
-- Human Resources Analyst
+- Workforce Analytics
+- HR Data Analytics
 - HRIS Reporting
+- Compensation Analytics
 - Data Visualization
 - Dashboard Development
 - Executive Presentations
 - Workforce Planning
 
-### Technical Skills
+---
 
-- Excel
-- Power BI
-- SQL / MySQL
-- HRIS / HRMS
-- PowerPoint
+## Technical Skills
+
+- Microsoft Excel
+- Microsoft Power BI
+- Microsoft PowerPoint
 - Tableau
+- SQL
+- MySQL
+- HRIS / HRMS
 - Google Sheets
+- Google Slides
 
 ---
 
-# Featured Projects
+# People Analytics Projects
 
-## Senior & Leadership Attrition Analysis
+## Leadership Attrition Analysis
 
 People Analytics consulting engagement focused on identifying leadership attrition drivers and retention opportunities within a healthcare organization.
 
-**Tools:** Excel, HRIS, Power BI, PowerPoint
+📊 **Tools**: Excel • HRIS/HRMS • Power BI • PowerPoint
 
-[View repository](LINK_HERE)
+📁 **Repository**: [**Click to View**](https://github.com/MieOtani/people-analytics-leadership-attrition-analysis)
 
----
+## Gender Pay Equity Analysis
 
-## Additional projects
+People Analytics consulting engagement evaluating gender pay equity across departments and assessing compensation alignment with employee performance.
 
-More workforce analytics projects will be added soon:
+📊 **Tools**: Excel • HRIS/HRMS • PowerPoint
 
-- Compensation analysis
-- Employee engagement analytics
-- Workforce planning
-- Leadership effectiveness
-- Talent analytics
+📁 **Repository**: [**Click to View**](https://github.com/MieOtani/gender-pay-equity-analysis)
 
 ---
 
-## Contact
+## Healthcare Data Analytics
+
+Healthcare analytics project exploring clinical and operational data to generate actionable business insights using SQL, Excel, and Tableau.
+
+📊 **Tools**: Excel • MySQL • Tableau
+
+📁 **Repository**: [**Click to View**](https://github.com/MieOtani/healthcare-data-anaytics)
+
+---
+
+# Upcoming Projects
+
+Projects currently in development:
+
+- Performance & Retention Analysis
+- PTO Investment Analysis
+- Pay Gap Across Seniority Levels Analysis
+
+---
+
+# Contact
 
 - LinkedIn
 - GitHub
