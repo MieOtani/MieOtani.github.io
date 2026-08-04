@@ -43,7 +43,11 @@ People Analytics consulting engagement focused on identifying leadership attriti
 📁 **Repository**: [**Click to View**](https://github.com/MieOtani/people-analytics-leadership-attrition-analysis)
 
 📊 **Power BI Dashboard**
-()
+
+![](visualization/powerbi_engagement_correlation.png)
+![](visualization/powerbi_exits_travel.png)
+![](visualization/powerbi_exits_year_department.png)
+![](visualization/powerbi_leadership_exits_attrition_rate_tenure.png)
 
 ## Gender Pay Equity Analysis
 
